@@ -1,0 +1,15 @@
+//
+//  hp.pch
+//  hp
+//
+//  Created by wangyilu on 16/6/1.
+//  Copyright © 2016年 ___PURANG___. All rights reserved.
+//
+
+#ifndef hp_pch
+#define hp_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#endif /* hp_pch */
